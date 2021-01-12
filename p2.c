@@ -15,6 +15,7 @@ void main()
 {
     int n;
     printf("Enter pattern size: ");
+    printf("\n");
     scanf("%d",&n);
 
     for (int i = 1; i <= n; i++)
